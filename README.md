@@ -2,8 +2,11 @@
 Find prime numbers using a linda like sysmetric coordination in erlang
 
 c(primes).
+
 primes:start(1000).
+
  Loading 1000 numbers into matrix (+N)
+ 
  Sqrt(1000) + 1 = 32
  Tuple space is started
  32 sieves are spawning (+PN)
