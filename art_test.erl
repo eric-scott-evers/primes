@@ -1,6 +1,7 @@
 -module(art_test).
 
 %  need to complile art.erl first with c(art) 
+c(art).
 
 art:init(). 
 %   {atomic,ok}
