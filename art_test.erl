@@ -1,4 +1,5 @@
 -module(art_test).
+-compile(export_all).
 
 start()->
  
