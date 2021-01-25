@@ -4,7 +4,7 @@
 start()->
  
 %  need to complile art.erl first with c(art) 
-c(art),
+compile:file(art),
 
 art:init(), 
 %   {atomic,ok}
