@@ -1,5 +1,6 @@
 # primes
 Find prime numbers using a linda like sysmetric coordination in erlang
+note: remember, normally processes in erlang should be managed by otp, not symetrically. 
 
 c(primes).
 
